@@ -3,6 +3,14 @@ Chef-MongoDB Cookbook Changelog
 Last-Update: Tue Nov  4 11:48:54 PST 2014
 ========================
 
+Pending 0.16.5 Changes
+--------------------------
+* bbnickell-tfly: Pin the version of the mongo gem to fix database connection issue: https://github.com/edelight/chef-mongodb/issues/389
+
+Pending 0.16.4 Changes
+--------------------------
+* bbnickell-tfly: Version bump
+
 Pending 0.16.3 Changes
 --------------------------
 * remove old runit dependency
